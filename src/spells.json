@@ -1,0 +1,62 @@
+[
+    {
+        "spellName":"Cold Snap",
+        "spellCodeArray":["qqq"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916931/invoSpellsImg/cold-snap_fypkay.webp"
+    },
+
+    {
+        "spellName":"Ghost Walk",
+        "spellCodeArray":["qqw","qwq","wqq"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916931/invoSpellsImg/ghost-walk_wn6n36.webp"
+    },
+
+    {
+        "spellName":"Ice Wall",
+        "spellCodeArray":["qqe","qeq","eqq"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916932/invoSpellsImg/ice-wall_u9nlkw.webp"
+    },
+
+    {
+        "spellName":"EMP",
+        "spellCodeArray":["www"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916931/invoSpellsImg/EMP_crtrdr.webp"
+    },
+
+    {
+        "spellName":"Tornado",
+        "spellCodeArray":["wwq","wqw","qww"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916932/invoSpellsImg/tornado_l9utti.webp"
+    },
+
+    {
+        "spellName":"Alacrity",
+        "spellCodeArray":["wwe","wew","eww"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916931/invoSpellsImg/Alacrity_icon_gxbwzl.webp"
+    },
+
+    {
+        "spellName":"Sun Strike",
+        "spellCodeArray":["eee"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916932/invoSpellsImg/sun-strike_syypus.webp"
+    },
+
+    {
+        "spellName":"Forge Spirit",
+        "spellCodeArray":["eeq","eqe","qee"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916931/invoSpellsImg/forge-spirit_r3cjes.webp"
+    },
+
+    {
+        "spellName":"Meteor",
+        "spellCodeArray":["eew","ewe","wee"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698917229/invoSpellsImg/Chaos_Meteor_icon_xvpbvr.webp"
+    },
+
+    {
+        "spellName":"Defeaning Blast",
+        "spellCodeArray":["qwe","weq","ewq"],
+        "spellImg":"https://res.cloudinary.com/dfhbcbjqs/image/upload/v1698916931/invoSpellsImg/defeaning-blast_imywcl.webp"
+    }
+]
+    

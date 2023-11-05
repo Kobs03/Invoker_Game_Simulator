@@ -1,0 +1,41 @@
+.aboutMain {
+    margin-top: 70px;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    position: absolute;
+    background-color: #1d1d1d;
+    border-radius: 19px;
+    color: white;
+
+    .aboutContents {
+        text-align: start;
+
+        & span {
+            color: #FF3131;
+        }
+
+        & a {
+            color: #00c3ff;
+            text-decoration: none;
+        }
+
+    }
+
+    .close {
+        p {
+            color: white;
+            text-shadow: 0 0 10px #FF3131;
+        }
+
+        p:hover {
+            color: #FF3131;
+            transform: scale(1.1);
+        }
+    }
+
+}

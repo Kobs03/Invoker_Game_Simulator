@@ -1,0 +1,268 @@
+// <-- SMALL SCREEN -->
+
+@media (max-height: 375px),
+(max-width: 667px) {
+
+    // <-- START MENU -->
+
+    .menu-main {
+
+        margin-top: 70px;
+        height: 300px;
+        width: 300px;
+
+        .gameTitle {
+
+            & h1 {
+                padding-bottom: 0px;
+                margin-bottom: 10px;
+                font-size: 18px;
+
+            }
+
+        }
+
+        .gameOptions {
+
+            & h3 {
+                width: 90px;
+                margin: 3px;
+                color: white;
+                transition: 0.3s;
+                font-size: 10px;
+            }
+
+        }
+
+    }
+
+    // <-- ABOUT VIEW! -->
+
+    .aboutMain {
+        margin-bottom: 106px;
+        height: 300px;
+        width: 300px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        position: absolute;
+        background-color: #1d1d1d;
+        border-radius: 19px;
+        color: white;
+
+        .aboutContents {
+            text-align: start;
+            font-size: 10.2px;
+
+            & span {
+                color: #FF3131;
+            }
+
+            & a {
+                color: #00c3ff;
+                text-decoration: none;
+            }
+
+        }
+
+        .close {
+            p {
+                color: white;
+                font-size: 10.2px;
+                text-shadow: 0 0 10px #FF3131;
+            }
+
+            p:hover {
+                color: #FF3131;
+                transform: scale(1.1);
+            }
+        }
+
+    }
+
+    // <-- TUTORIAL MENU -->
+
+    .tutorial-main {
+        margin-bottom: 109px;
+        height: 300px;
+        width: 300px;
+        display: flex;
+        justify-content: start;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        position: absolute;
+        background-color: rgb(26, 26, 26);
+        border-radius: 19px;
+        color: white;
+
+        #control {
+            font-size: 11px;
+            margin-bottom: 0px;
+        }
+
+        .inputsCategory {
+            height: 10%;
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+            flex-direction: row;
+
+            .kb {
+                width: 50%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 10px;
+            }
+
+            .mb {
+                width: 50%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 10px;
+            }
+        }
+
+        .inputs-container {
+
+            .arrow {
+                font-size: 13px;
+            }
+
+            & h3 {
+                font-size: 10px;
+            }
+
+            .keyboard {
+
+                .keyQ {
+                    .ball1 {
+                        height: 50%;
+                    }
+                }
+
+                .keyW {
+                    .ball2 {
+                        height: 50%;
+                    }
+                }
+
+                .keyE {
+                    .ball3 {
+                        height: 50%;
+                    }
+                }
+
+                .keyR {
+                    font-size: 10px;
+                }
+            }
+
+            .mobile {
+
+                .mobileQ {
+                    height: 20%;
+                    width: 100%;
+
+                    .touch1 {
+                        height: 80%;
+                        width: 25%;
+
+                        h5 {
+                            font-size: 7px;
+                        }
+                    }
+
+                    .mobileBall1 {
+                        height: 50%;
+                        width: 14%;
+                    }
+                }
+
+                .mobileW {
+                    height: 20%;
+                    width: 100%;
+
+                    .touch2 {
+                        height: 80%;
+                        width: 25%;
+
+                        h5 {
+                            font-size: 7px;
+                        }
+                    }
+
+                    .mobileBall2 {
+                        height: 50%;
+                        width: 14%;
+                    }
+                }
+
+                .mobileE {
+                    height: 20%;
+                    width: 100%;
+
+
+                    .touch3 {
+                        height: 80%;
+                        width: 25%;
+
+                        h5 {
+                            font-size: 7px;
+                        }
+
+                    }
+
+                    .mobileBall3 {
+                        height: 50%;
+                        width: 14%;
+
+                    }
+                }
+
+                .mobileR {
+                    height: 20%;
+                    width: 100%;
+
+
+                    .touch4 {
+                        height: 80%;
+                        width: 25%;
+
+                        h5 {
+                            font-size: 7px;
+                        }
+
+                    }
+
+                    .mobileBall4 {
+                        height: 70%;
+                        font-size: 10px;
+                    }
+                }
+
+            }
+
+        }
+
+        .instructions-container {
+
+
+            & p {
+                padding: 5px;
+                font-size: 9px;
+            }
+
+            & .close {
+                font-size: 8px;
+            }
+
+        }
+    }
+}
