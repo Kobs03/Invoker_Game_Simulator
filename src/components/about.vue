@@ -9,7 +9,7 @@
           <br />
           Do you see this project fancy? <br />
           Please do follow me on my social account <br />
-          and a GitHub star on this project. <br />
+          or a GitHub star on this project. <br />
           <br />
           <span>links:</span> <br />
           <a href="https://www.facebook.com/profile.php?id=61552791824063"> Facebook Page </a> <br />
