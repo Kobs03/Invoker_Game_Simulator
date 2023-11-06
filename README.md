@@ -16,16 +16,16 @@ Controls:
 ------------------------------------
 
 Keyboard :
--press Q to generate Quas Element (blue ball)
--press W to generate Wex Element (violet ball)
--press E to generate Exort Element (orange ball)
--press R to invoke or submit the spell to gain points
+- press Q to generate Quas Element (blue ball)
+- press W to generate Wex Element (violet ball)
+- press E to generate Exort Element (orange ball)
+- press R to invoke or submit the spell to gain points
 
 Mobile : 
--Tap Quas Button to generate Quas Element (blue ball)
--Tap Wex Button to generate Wex Element (violet ball)
--Tap Exort Button to generate Exort Element (orange ball)
--Tap Invoke Button to invoke or submit the spell to gain points
+- Tap Quas Button to generate Quas Element (blue ball)
+- Tap Wex Button to generate Wex Element (violet ball)
+- Tap Exort Button to generate Exort Element (orange ball)
+- Tap Invoke Button to invoke or submit the spell to gain points
 
 ------------------------------------
 Instructions :
