@@ -1,8 +1,8 @@
 
 -------------------------------------
 Invoker Spell Simulator Game v0.1
-Created by DevKobs:
 -------------------------------------
+Created By: DevKobs
 
 -------------------------------------
 Description:
