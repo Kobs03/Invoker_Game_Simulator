@@ -1,35 +1,50 @@
-# app
 
-This template should help get you started developing with Vue 3 in Vite.
+-------------------------------------
+Invoker Spell Simulator Game v0.1
+-------------------------------------
+Created By: DevKobs
 
-## Recommended IDE Setup
+-------------------------------------
+Description:
+-------------------------------------
+A fun simulation game of the dota 2 hero invoker spells
+mechanics which will test your familiarization of 
+invoker spells element combinations.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+------------------------------------
+Controls:
+------------------------------------
 
-## Customize configuration
+Keyboard :
+• press Q to generate Quas Element (blue ball)
+• press W to generate Wex Element (violet ball)
+• press E to generate Exort Element (orange ball)
+• press R to invoke or submit the spell to gain points
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Mobile : 
+• Tap Quas Button to generate Quas Element (blue ball)
+• Tap Wex Button to generate Wex Element (violet ball)
+• Tap Exort Button to generate Exort Element (orange ball)
+• Tap Invoke Button to invoke or submit the spell to gain points
 
-## Project Setup
+------------------------------------
+Instructions :
+------------------------------------
+You will have a 60 seconds to match the element combination  of the displayed element to gain a score.
+Every 5 inputs will light Blue, Violet, Orange respectively and when all of the 3 colors lights up,
+score gained will be doubled for 10 seconds duration.
 
-```sh
-npm install
-```
+------------------------------------
+Advanced Game tips :
+------------------------------------
+• This game accepts the element inputs in any order.
+• To score faster input only the second and the third element if the previous spell first element is the same. 
+  For example for Quas based spells, if the previous spell is "ColdSnap = QQQ" and the next Spell is "GHOST WALK = QQW" 
+  then input the Wex Element only. Same goes for the Wex and Exort based spells.
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
 
-### Lint with [ESLint](https://eslint.org/)
 
-```sh
-npm run lint
-```
+
