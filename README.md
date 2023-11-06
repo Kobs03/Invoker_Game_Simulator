@@ -27,6 +27,10 @@ Mobile :
 - Tap Exort Button to generate Exort Element (orange ball)
 - Tap Invoke Button to invoke or submit the spell to gain points
 
+Other :
+-Press the escape key in keyboard or tap 
+ the spell display for mobile to quit game
+
 ------------------------------------
 Instructions :
 ------------------------------------
