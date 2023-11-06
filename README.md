@@ -1,7 +1,7 @@
 
 
-**Invoker Spell Simulator Game v0.1**
-**Created by DevKobs**
+**Invoker Spell Simulator Game v0.1**:
+**Created by DevKobs**:
 
 -------------------------------------
 Description:
@@ -34,7 +34,7 @@ Every 5 inputs will light Blue, Violet, Orange respectively and when all of the 
 score gained will be doubled for 10 seconds duration.
 
 ------------------------------------
-Advanced tips :
+Advanced Game tips :
 ------------------------------------
 > This game accepts the element inputs in any order.
 > To score faster input only the second and the third element if the previous spell first element is the same. 
