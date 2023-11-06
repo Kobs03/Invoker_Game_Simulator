@@ -193,6 +193,7 @@ export default {
   },
 
   methods: {
+    
     //show About component
 
     showAbout() {
@@ -211,9 +212,9 @@ export default {
       this.timesUpVar = !this.timesUpVar;
     },
 
-    clickTest() {
-      console.log("clicked mafakers!");
-    },
+    // clickTest() {
+    //   console.log("clicked mafakers!");
+    // },
 
     //generate random spells object
 
