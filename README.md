@@ -4,6 +4,8 @@ Invoker Spell Simulator Game v0.1
 -------------------------------------
 Created By: DevKobs
 
+link: https://kobs03.github.io/Invoker_Game_Simulator/
+
 -------------------------------------
 Description:
 -------------------------------------
